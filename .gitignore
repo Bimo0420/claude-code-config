@@ -1,0 +1,13 @@
+.bash_history
+.viminfo
+.wget-hsts
+.claude.json
+.cache/
+.local/
+.config/
+.dotnet/
+.bun/
+.vscode-server/
+.copilot/
+.claude/shell-snapshots/
+.claude/plugins/
