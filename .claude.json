@@ -1,5 +1,5 @@
 {
-  "numStartups": 41,
+  "numStartups": 45,
   "installMethod": "native",
   "autoUpdates": false,
   "theme": "dark-daltonized",
@@ -399,7 +399,7 @@
       "lastAPIDuration": 0,
       "lastAPIDurationWithoutRetries": 0,
       "lastToolDuration": 0,
-      "lastDuration": 114938,
+      "lastDuration": 294570,
       "lastLinesAdded": 0,
       "lastLinesRemoved": 0,
       "lastTotalInputTokens": 0,
@@ -407,18 +407,18 @@
       "lastTotalCacheCreationInputTokens": 0,
       "lastTotalCacheReadInputTokens": 0,
       "lastTotalWebSearchRequests": 0,
-      "lastFpsAverage": 0.53,
-      "lastFpsLow1Pct": 33.26,
+      "lastFpsAverage": 0.05,
+      "lastFpsLow1Pct": 8.58,
       "lastModelUsage": {},
-      "lastSessionId": "4820908a-31c3-473e-8025-b0ce361fc369",
+      "lastSessionId": "0cad140a-3b3e-4750-9175-4c8c7301ad25",
       "lastSessionMetrics": {
-        "frame_duration_ms_count": 15,
-        "frame_duration_ms_min": 0.1276300000001811,
-        "frame_duration_ms_max": 30.065039999999954,
-        "frame_duration_ms_avg": 2.8025214000001823,
-        "frame_duration_ms_p50": 0.6870589999999765,
-        "frame_duration_ms_p95": 10.335018500000006,
-        "frame_duration_ms_p99": 26.119035699999955
+        "frame_duration_ms_count": 14,
+        "frame_duration_ms_min": 0.1464849999999842,
+        "frame_duration_ms_max": 116.56156099999987,
+        "frame_duration_ms_avg": 10.090424214286307,
+        "frame_duration_ms_p50": 0.9284009999999512,
+        "frame_duration_ms_p95": 48.697373049999854,
+        "frame_duration_ms_p99": 102.98872340999979
       }
     },
     "/root/claude-telegram-bot": {
