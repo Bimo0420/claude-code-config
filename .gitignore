@@ -34,6 +34,9 @@
 .vscode-server/
 .copilot/
 
+# Projects
+rag-sandbox/
+
 # Secrets
 .env
 *.env
