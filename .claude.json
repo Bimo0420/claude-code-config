@@ -1,5 +1,5 @@
 {
-  "numStartups": 39,
+  "numStartups": 41,
   "installMethod": "native",
   "autoUpdates": false,
   "theme": "dark-daltonized",
@@ -16,14 +16,14 @@
     "install-slack-app": 37,
     "double-esc-code-restore": 39,
     "continue": 39,
-    "shift-tab": 29,
+    "shift-tab": 39,
     "image-paste": 22,
     "web-app": 35,
     "mobile-app": 35,
     "color-when-multi-clauding": 35,
     "shift-enter": 39,
-    "custom-agents": 25,
-    "agent-flag": 25,
+    "custom-agents": 41,
+    "agent-flag": 41,
     "feedback-command": 25,
     "permissions": 37,
     "rename-conversation": 28,
@@ -32,7 +32,7 @@
     "drag-and-drop-images": 35,
     "ide-upsell-external-terminal": 30
   },
-  "promptQueueUseCount": 48,
+  "promptQueueUseCount": 51,
   "cachedGrowthBookFeatures": {
     "tengu_sotto_voce": true,
     "tengu_disable_bypass_permissions_mode": false,
