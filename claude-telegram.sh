@@ -12,4 +12,4 @@ echo "[$(date)] Starting Claude Telegram bot..." >> "$LOG"
 
 # script allocates a PTY so claude runs as if in a terminal
 # Output is logged; claude exits -> systemd restarts
-exec script -q -c "$CLAUDE_BIN --dangerously-skip-permissions" /dev/null >> "$LOG" 2>&1
+exec script -q -c "$CLAUDE_BIN --channels plugin:telegram@claude-plugins-official --permission-mode auto" /dev/null >> "$LOG" 2>&1
